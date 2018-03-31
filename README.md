@@ -1,6 +1,10 @@
 # awesome-mac-apps
 Awesome macOS apps for developers, programmers or anyone looking for useful tools! Unless listed as paid, all apps mentioned are free. 
 
+List of open-source Mac apps. Managed by [Viraat Aryabumi](viraataryabumi.info)
+
+Feel free to contribute: [issues](https://github.com/var7/awesome-mac-apps/issues) or [pull request](https://github.com/var7/awesome-mac-apps/pulls)
+
 ## Menu bar apps
 These are apps that live in my menu bar
 
